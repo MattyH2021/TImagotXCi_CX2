@@ -1,4 +1,4 @@
-# TImagotCXi
+# TImagotCXi   CX2
 
 **TImagotCXi** is a small Tamagotchi-style virtual pet game made for the **TI-Nspire CX II** using **Ndless** and **nSDL**.
 
